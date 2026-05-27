@@ -21,7 +21,7 @@ Abaixo estão os projetos disponíveis neste repositório. Você pode navegar pe
 | Dashboard / Projeto | Ferramenta | Status / Links |
 | :--- | :---: | :---: |
 | **Análise de Vendas** <br> *Foco em faturamento e performance.* | Power BI | [📂 Ver Arquivos](./power-bi/01-analise-vendas/) |
-|
+| **Análise de Vendas** <br> *Foco em Lucros,Custos e KPI.* | Power BI | [📂 Ver Arquivos](./power-bi/02-Vendas-Custo-MargemLucro-KPI/) |
 
 ---
 
@@ -29,5 +29,4 @@ Abaixo estão os projetos disponíveis neste repositório. Você pode navegar pe
 
 Se tiver alguma dúvida, feedback ou oportunidade de projeto, sinta-se à vontade para me acionar:
 
-* **LinkedIn:** [Seu Nome](https://linkedin.com/in/seu-usuario)
-* **E-mail:** seu.email@exemplo.com
+* **LinkedIn:** [Seu Nome](https://www.linkedin.com/in/danilo-a-avelar/)
