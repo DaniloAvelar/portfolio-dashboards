@@ -99,5 +99,4 @@ O dashboard é composto pelos seguintes visuais interativos:
 
 Se tiver alguma dúvida, feedback ou oportunidade de projeto, sinta-se à vontade para me acionar:
 
-* **LinkedIn:** [Danilo Aliotto Avelar](https://linkedin.com/in/seu-perfil)
-* **E-mail:** seu.email@exemplo.com
+* **LinkedIn:** [Danilo Aliotto Avelar](https://www.linkedin.com/in/danilo-a-avelar/)
